@@ -54,9 +54,11 @@ gen-external-apklibs
 # NDK
 obj/
 
-# IntelliJ IDEA
-*.iml
+### IntelliJ IDEA ###
+.idea
 *.iws
+*.iml
+*.ipr
 /out/
 
 # User-specific configurations
